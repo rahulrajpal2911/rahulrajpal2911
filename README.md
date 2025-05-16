@@ -1,6 +1,6 @@
 # Rahul — Staff Engineer | Senior Technical Leader | DSA & AI Enthusiast
 
-Hi there! I’m Rahul, a **Staff Engineer** and **Senior Technical Leader** with a strong foundation in **Node.js**, **TypeScript**, **React**, and **modern web technologies**. I specialize in architecting scalable systems, leading high-performing teams, and applying **data structure and algorithm (DSA)** principles to build performance-driven backend infrastructure.
+Hi there! I’m Rahul, an aspiring **Staff Engineer** and **Senior Technical Leader** with a strong foundation in **Node.js**, **TypeScript**, **React**, and **modern web technologies**. I specialize in architecting scalable systems, leading high-performing teams, and applying **data structure and algorithm (DSA)** principles to build performance-driven backend infrastructure.
 
 ---
 
