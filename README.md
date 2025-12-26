@@ -31,10 +31,10 @@ I'm actively sharing my insights through technical blogs and structured GitHub r
 
 ---
 
-## 📚 Current Learning
+## 📚 Learning
 
 - **Java**: Studying in Semester 3 of **BCA (Amity Online)** to deepen OOP and system-level understanding
-- **Python & AI**: Enrolled in **Simplilearn’s Master in AI** program to transition into advanced AI/ML domains
+- **Python & AI**: Certified **Simplilearn’s Master in AI** program that includes Machine learning with model development, Deep learning, and Data science to transition into advanced AI/ML domains
 - Targeting integration of AI into scalable backend systems and long-term architectural decision-making
 
 ---
