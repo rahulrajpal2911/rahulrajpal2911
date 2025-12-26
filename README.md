@@ -33,7 +33,7 @@ I'm actively sharing my insights through technical blogs and structured GitHub r
 
 ## 📚 Learning
 
-- **Java**: Studying in Semester 3 of **BCA (Amity Online)** to deepen OOP and system-level understanding
+- **BCA (AI)**: Studying in Semester 4 of **BCA (Amity Online)** to deepen OOP and system-level understanding
 - **Python & AI**: Certified **Simplilearn’s Master in AI** program that includes Machine learning with model development, Deep learning, and Data science to transition into advanced AI/ML domains
 - Targeting integration of AI into scalable backend systems and long-term architectural decision-making
 
@@ -41,9 +41,7 @@ I'm actively sharing my insights through technical blogs and structured GitHub r
 
 ## 🎓 My Academic Journey
 
-- 📘 Started with **B.Com in 2009**, completed all semesters
-- Couldn’t obtain the degree due to a ₹1500 fee—significant for me at the time
-- Persisted for years; in 2023, I traveled 200+ km, stayed on-site, and uncovered that **Semester 4 records were never updated**, which blocked my degree issuance
+- 📘 Started with **B.Com in 2009**, dropped out due to family circumstances
 - Decided to move forward—enrolled in **BCA (Amity Online)** instead
   - Performing strongly in academics and technology
   - Committed to completing **BCA → Master’s → M.Tech**
